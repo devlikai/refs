@@ -1,5 +1,6 @@
 # spring boot
   - spring 容器管理
+  - [Spring @Component, @Repository and @Service Annotations](https://howtodoinjava.com/spring-core/how-to-use-spring-component-repository-service-and-controller-annotations/)
 # mysql
 
 # RabbitMQ

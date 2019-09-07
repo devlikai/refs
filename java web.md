@@ -3,11 +3,7 @@
   - spring 容器管理
   - [Spring @Component, @Repository and @Service Annotations](https://howtodoinjava.com/spring-core/how-to-use-spring-component-repository-service-and-controller-annotations/)
   - [SpringBoot Jackson Date类型格式设置](http://www.alanzeng.cn/2017/11/springboot-jackson-date/)
-  - @Autowired规则：首先根据类型找到对应的Bean，如果对应类型的Bean不是唯一的，那它会根据其属性名称和Bean的名称进行匹配。如有Animal接口，Dog和Cat均实现了Animal，下面代码将匹配dog。
-  ```
-  @Autowired
-  Animal dog = null;
-  ```
+ 
 # mysql
 
 # RabbitMQ
